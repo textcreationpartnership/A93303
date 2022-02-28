@@ -1,0 +1,226 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The sisters of the scabards holiday: or, a dialogue between two reverent and very vertuous matrons, Mrs. Bloomesbury, and Mrs. Long-Acre her neare neighbour. Wherein is discoursed how terrible, and costly the civill law was to their profession; and how they congatulate [sic] the welcome alteration.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93303</idno>
+            <idno type="STC">Wing S3909</idno>
+            <idno type="STC">Thomason E168_8</idno>
+            <idno type="STC">ESTC R18420</idno>
+            <idno type="EEBO-CITATION">99860400</idno>
+            <idno type="PROQUEST">99860400</idno>
+            <idno type="VID">112520</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93303)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112520)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 29:E168[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The sisters of the scabards holiday: or, a dialogue between two reverent and very vertuous matrons, Mrs. Bloomesbury, and Mrs. Long-Acre her neare neighbour. Wherein is discoursed how terrible, and costly the civill law was to their profession; and how they congatulate [sic] the welcome alteration.</title>
+               </titleStmt>
+               <extent>[2], 5, [1] p. :   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed, 1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Illustrated t.p.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prostitution --  England --  London --  Humor --  Early works to 1800.</term>
+               <term>Political corruption --  England --  London --  Humor --  Early works to 1800.</term>
+               <term>London (England) --  Social life and customs --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112520:1" rendition="simple:additions"/>
+            <p>The Siſters of the Scabards HOLIDAY: OR, A Dialogue between two reverent and very vertuous Matrons, Mrs. <hi>Bloomesbury,</hi> and Mrs. <hi>Long-Acre</hi> her neare Neighbour.</p>
+            <p>Wherein is Diſcourſed how terrible, and coſtly and <hi>Civill Law</hi> was to their Profeſſion; and how they congatulate the welcome Alteration.</p>
+            <figure/>
+            <p>PRINTED, 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:112520:2"/>
+            <pb n="1" facs="tcp:112520:2"/>
+            <head>The Siſters of the Scabards holy-day, OR A dialogue between two reverent and vertuous Matrons Mrs. <hi>Bloomsbu<g ref="char:EOLhyphen"/>ry,</hi> and Mrs. <hi>Long-acre</hi> her neare neigh<g ref="char:EOLhyphen"/>bour. Wherein is diſcourſed how terrible and coſtly the civil law was to their profeſſion, and how they congratulate the welcome Alteration, &amp;c.</head>
+            <sp>
+               <speaker>Blomesbury.</speaker>
+               <p>
+                  <seg rend="decorInit">M</seg>Y great friend miſtris <hi>Long-acre,</hi> you are very happily met.</p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>My large friend Miſtris <hi>Bloms<g ref="char:EOLhyphen"/>bury,</hi> not ſo great as your ſelf, thogh (thanks to our fat-feeding ale) I am prettie well growne, I am prettie plump I'faith.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>So it ſeemes, for your belly is plumped up as big as a Bucking-tub.</p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>And yours is not much leſſe, for in my opi<g ref="char:EOLhyphen"/>nion any one might judge your fat Ale, (as you call it) had ingendred a Land Porpus in your belly, but I pray thee let's leave off this diſcourſe, and tell mee what newes you heare, what is the cauſe you look ſo pleaſantly?</p>
+            </sp>
+            <pb n="2" facs="tcp:112520:3"/>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Better news then ever I looked for.</p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>I pray thee kind ſiſter proceed let's heare it.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>All the Civil Lawyers, the Judges, Doctors, Advocates, Proctors, Regiſters, and all their Co<g ref="char:EOLhyphen"/>ney-hunting Clarkes, that love handſome wenches ſo well as their Maſters, ſhall now ready pay for their venery, if they have it, they ſhall bee no more pri<g ref="char:EOLhyphen"/>viledged.</p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>Why neighbour <hi>Bloomsbury,</hi> did not your Ci<g ref="char:EOLhyphen"/>vill Lawyers uſe to pay ready money for your com<g ref="char:EOLhyphen"/>modities, I hope they did not uſe to ſtop in with you for their fees; for my part, I never priviledged them; and if at any time they traded in my ware, (as many times they did) I would never truſt them without readie money no more then they would me for their fees, yet I uſed them ever more conſcionably then they did mee.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>But what had you alwaies ready money of their Clerks too?</p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>No apoxe on'em, thoſe were the baſeſt fellowes, they were worſe then Apparators eſpecially in a long vacation, yet many times (to give the Devill his due) at the latter end of a Michaelmas Terme, they were more liberall then their Maſters.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Good neighbour <hi>Long-acre,</hi> tell me what theſe Gent. in the cut-finger'd gloves would doe in a long vacation.</p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>Why I tell you, in either terme or vacation, theſe Gentlemen were more curious with what ware they dealt then their Maſters, for many times wee could put off any Commodities to them, and they
+<pb n="3" facs="tcp:112520:3"/>would be content (though they were fain to imploy a Surgeon when they came home) but theſe Gentle<g ref="char:EOLhyphen"/>men Clarkes they muſt have freſh wenches and hand<g ref="char:EOLhyphen"/>ſome ones too (though their faces were plaiſtered halfe an inch thick or beautified with Ladies face Phyſicke) thoſe ſame mackereltaild Gentlemen would ſwallow up whole bottles of ſtrong water, and when they were got a little in drinke would kick me and my whole family out of dores, both male and female, young and old, pimps and rogues, whores and bawdes, and goe their wayes and pay me not one farthing.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Truly they uſed you unconſcionably.</p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>Nay this was not all, the very next day they would ſend an Apparator, who would warne both me and my whole harmleſſe houſhold to appeare in Pauls the next Court day, to anſwere for keeping a common bawdy-houſe, ready furniſhed with merce<g ref="char:EOLhyphen"/>nary whores, who daily commit the carnall act of incontinency, and for many other miſdeamea<g ref="char:EOLhyphen"/>nors.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Truſt mee Miſtris <hi>Long-acre,</hi> I have beene ſerved in the like manner; but I pray how came you off.</p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>Firſt I muſt pay the Apparator his whole fees, with large conſiderations for his extraordinary pains and attendance, then muſt I repaire to theſe Gentle<g ref="char:EOLhyphen"/>men who had ſo abuſed us, and invite them to a breakfaſt forſooth, and make my compoſition with them and give them larger fees then their Mr. to take off the buſineſſe, or elſe leave off the trade and be ut<g ref="char:EOLhyphen"/>terly
+<pb n="4" facs="tcp:112520:4"/>undone, I aſſure you ſiſter <hi>Blomsbury,</hi> there is I know not how many of thoſe Clerks about <hi>Doctors-Commons</hi> that live upon nothing elſe every long vacation, then upon ſuch projects as theſe; but now (thankes to the impartiall Parliament) their trading begins to faile them.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Is that poſſible, ſiſter <hi>Long-acre?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>'Tis true as I tell you: And all the ſmel-ſmock crew of Meſſengers, Sumners, Apparators, and Promooters whatſoever muſt now either turne ſhoul<g ref="char:EOLhyphen"/>der-clapper Bailiffs, Setters, Knights of the Poſt, or elſe goe hang themſelves; I intend to pay no more quarterage to theſe skruing Gentlemen I'faith.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>As I am heere, I ſhould rejoyce more at the downfall of theſe Gentlemen you named laſt, then of all the reſt, for I paid them conſtantly ten pound a year, and yet ſtill was in feare of them for all that, and was ſure to ride once a yeare in a ſingle Coach with two wheeles up <hi>Cheapſide,</hi> where I make no queſtion but you know how I was uſed.</p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>Yes truly, for it hath been my owne caſe many times. But let theſe things be forgotten, lets think how to increaſe our trading: for my part I intend to do this for the renewing of my trade, what Gentle<g ref="char:EOLhyphen"/>women I have I will keep: And I will ſend <hi>Henry Hackeſter</hi> my chiefe pimpe to collect, gather, and bring home all my fugitive and ſtraid Gentlewomen, <hi>viz.</hi> Miſtris <hi>Lacy,</hi> Miſtris <hi>Skinner,</hi> Miſtris <hi>Butler,</hi> Miſtris <hi>Webſter,</hi> Miſtris <hi>Glover,</hi> Miſtris <hi>Symmons,</hi> and Miſtris <hi>Clayton,</hi> if ſhee be not ſpoyled already, for ſhee hath great reſort to her lodging at a Barbers
+<pb n="5" facs="tcp:112520:4"/>in <hi>Fetterlane</hi>) with many others, whereof hee hath a catalogue; And for the further upholding of our trade, if it pleaſe you to joyne with me (ſweet Mrs. <hi>Blomsbury</hi>) when wee grow rich which I doubt not but it will be ere long, wee will build an Hoſpitall for all of our ſocietie that are old and not able to keepe up trade, and for theſe that are young and faile in their trade by their over-much practiſe or im<g ref="char:EOLhyphen"/>moderate dealing in their trade, wherein wee will have twenty Apothecaries and forty Surgeons gal<g ref="char:EOLhyphen"/>lantly maintained, and other neceſſarie inſtruments to our trade belonging.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>But ſtay there ſweete Miſtris <hi>Long-acre,</hi> for though the Civill Law be likely to have a fall, and the greateſt part of our enemies breake, yet I beleeve our profeſſion (though never ſo neceſſary) wil have new enemies, our proſperity wil be envied; we ſhall ſtand in awe to one or other, by whom we ſhalbe cor<g ref="char:EOLhyphen"/>rected in caſe we tranſgreſſe.</p>
+            </sp>
+            <sp>
+               <speaker>L.</speaker>
+               <p>That is to be conſidered truly: However lets at the downefall of our enemies, rejoyce and ſend pro<g ref="char:EOLhyphen"/>clamations through <hi>Turnmill-ſtreet, Goulding-lane, Beech-lane, Pick-hatch,</hi> and in all other places where any of our ſocietie remaines to proclaim a generall feaſt, and</p>
+               <l>Let <hi>Doctors Commons,</hi> and our foes doe what they may,</l>
+               <l>Wee Siſters of the ſcabard will keepe holiday.</l>
+            </sp>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
